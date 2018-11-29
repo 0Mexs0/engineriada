@@ -3,18 +3,34 @@
 <head>
     <meta charset="utf-8">
     <style type="text/css">
-    .ramka {
-    background-color: #DE5415;
-    }
+    .wrap { 
+    width: 25%;
+	background-color: #DE5415%;
+   }
     </style>
+	<style type="text/css">
+	.ramka2 {
+	width: 25%;
+	background-color: #FFFFFF;
+	}
+	</style>
+	<style type="text/css">
+	.ramka3 {
+	width: 25%;
+	background-color6: #DE5415;
+	}
+	</style>
+</head>
+<body>
 <title></title>
-<div class="ramka" width="25%">
-
+<div class="warp">
+.
 </div>
-<div>
-
+<div class="ramka2">
+.
 </div>
-<div></div>
+<div class="ramka3">
+.
+</div>
 </body>
 </html>
-
