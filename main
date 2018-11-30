@@ -1,36 +1,43 @@
-<!DOCTYPE html>
-<html>
 <head>
-    <meta charset="utf-8">
-    <style type="text/css">
-    .wrap { 
-    width: 25%;
-	background-color: #DE5415%;
-   }
-    </style>
-	<style type="text/css">
-	.ramka2 {
-	width: 25%;
-	background-color: #FFFFFF;
-	}
-	</style>
-	<style type="text/css">
-	.ramka3 {
-	width: 25%;
-	background-color6: #DE5415;
-	}
-	</style>
+<title>test</title>
+
+<style type="text/css">
+
+body {
+height: 100%;
+}
+   
+.ramka1 {
+ width: 20%;
+ height: 100%;
+ background-color: #ff4500;
+ position: absolute;
+ left: 0px;
+ top: 0px;
+}
+
+.ramka2 {
+ width: 20%;
+ height: 100%;
+ background-color: #ff4500;
+ position: absolute;
+ right: 0px;
+ top: 0px;
+}
+
+
+ </style>
+
+
 </head>
+
+
 <body>
-<title></title>
-<div class="warp">
-.
+
+<div class="ramka1">1
 </div>
-<div class="ramka2">
-.
+
+<div class="ramka2" >1
 </div>
-<div class="ramka3">
-.
-</div>
+
 </body>
-</html>
